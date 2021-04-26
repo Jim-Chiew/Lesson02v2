@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Demo My Second App</string>
+    <string name="large">LARGE TEXT</string>
+    <string name="welcome">Welcome to android!</string>
+    <string name="b1">Button 1</string>
+    <string name="b2">Button 2</string>
+
+    <string name="name">Name:</string>
+    <string name="Password">Password:</string>
+    <string name="Login">LOGIN</string>
+    <string name="Cancel">CANCEL</string>
+
+    <string name="title">Registration Form</string>
+    <string name="Welcome_form">Welcome to Adventure Learning Club!</string>
+    
+    <string name="full_name">Full Name:</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    
+    <string name="id">Student ID:</string>
+    <string name="school">School:</string>
+    <string name="email">E-mail:</string>
+    <string name="phone">Phone:</string>
+
+    <string name="register">Register</string>
 </resources>
